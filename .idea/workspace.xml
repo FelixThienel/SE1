@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/GermanTranslatorFactory.java" afterDir="false" />
+    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Ausgabe der Ergebnisse">
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/TranslatorFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codesSE2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codesSE2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/GermanTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/GermanTranslator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/Translator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/view/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung1/control/GermanTranslatorFactory.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FelixThienel"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/aldaGit/codesSEws24.git",
@@ -90,8 +93,57 @@
       <option name="presentableId" value="Default" />
       <updated>1727176957166</updated>
       <workItem from="1727176958305" duration="1892000" />
-      <workItem from="1728385598782" duration="2541000" />
+      <workItem from="1728385598782" duration="3284000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1728388252348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388252348</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Übersetzung der Zahlen">
+      <option name="closed" value="true" />
+      <created>1728388270102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388270102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Interface">
+      <option name="closed" value="true" />
+      <created>1728388280767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388280767</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Interface">
+      <option name="closed" value="true" />
+      <created>1728388292383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388292383</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1728388297825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388297825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ausgabe der Ergebnisse">
+      <option name="closed" value="true" />
+      <created>1728388321028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388321028</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +159,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Übersetzung der Zahlen" />
+    <MESSAGE value="Interface" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Ausgabe der Ergebnisse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ausgabe der Ergebnisse" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
