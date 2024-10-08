@@ -1,5 +1,7 @@
 package org.hbrs.se1.ws24.exercises.uebung1.view;
 
+import org.hbrs.se1.ws24.exercises.uebung1.control.GermanTranslatorFactory;
+
 public class Client {
 
 		/**
@@ -8,7 +10,7 @@ public class Client {
 		 *
 		 */
 		 void display(int aNumber) {
-			 System.out.println("Das Ergebnis der Berechnung: " + "[das Ergebnis an dieser Stelle]" );
+			 System.out.println("Das Ergebnis der Berechnung: " + GermanTranslatorFactory.createGermanTranslator().translateNumber(aNumber));
 		 }
 }
 
