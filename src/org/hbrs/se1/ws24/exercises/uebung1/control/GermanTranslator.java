@@ -10,7 +10,7 @@ public class GermanTranslator implements Translator {
 	public String translateNumber(int number) {
 		String[] zahlen = {"eins", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn"};
 		try {
-			return zahlen[number];
+			return zahlen[number - 1];
 		} catch(Exception e) {
 			return "Übersetzung der Zahl " + number + " nicht möglich (Version " + version + ")";
 		}
