@@ -4,6 +4,7 @@ import org.hbrs.se1.ws24.exercises.uebung3.persistence.*;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class Container {
     // Singleton-Pattern
@@ -13,7 +14,7 @@ public class Container {
     List<Member> members;
 
     private Container() {
-        members = new ArrayList<Member>();
+        members = new ArrayList<>();
     }
 
     /**
@@ -28,7 +29,7 @@ public class Container {
 
     public void addMember(Member member) throws ContainerException {
         for(Member aMember : members)
-            if(aMember.getID() == member.getID())
+            if(Objects.equals(aMember.getID(), member.getID()))
                 throw new ContainerException("Das Member-Objekt mit der ID " + member.getID() + " ist bereits vorhanden!");
         members.add(member);
     }
