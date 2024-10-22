@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Exceptions &gt; Rückgabewert">
+    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/ConcreteMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/ContainerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/MemberView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/org/hbrs/se1/ws24/tests/uebung3/SpeicherTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/persistence/PersistenceStrategyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/persistence/PersistenceStrategyStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="editable-svg" />
         <option value="Class" />
       </list>
     </option>
@@ -65,91 +75,64 @@
 }</component>
   <component name="ProjectId" id="2mW0K1ridSNtBXJ1HQIirtbe7AX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.ContainerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ContainerTest.testAddMember.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ContainerTest.testDump.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ContainerTest.testSize.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.GermanTranslatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.ContainerTest.executor": "Run",
+    "JUnit.ContainerTest.testAddMember.executor": "Run",
+    "JUnit.ContainerTest.testDump.executor": "Run",
+    "JUnit.ContainerTest.testSize.executor": "Run",
+    "JUnit.GermanTranslatorTest.executor": "Run",
+    "JUnit.SpeicherTests.executor": "Run",
+    "JUnit.SpeicherTests.testKeineStrategie.executor": "Run",
+    "JUnit.SpeicherTests.testOrdner.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rebaf\IdeaProjects\codesSEws24\src\org\hbrs\se1\ws24\exercises\uebung3" />
       <recent name="C:\Users\rebaf\IdeaProjects\codesSEws24\src\org\hbrs\se1\ws24\exercises\uebung2" />
       <recent name="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContainerTest.testSize">
-    <configuration name="ContainerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SpeicherTests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.exercises.uebung3.Main" />
       <module name="codesSE2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung2.*" />
+          <option name="PATTERN" value="org.hbrs.se1.ws24.exercises.uebung3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung2" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung2.ContainerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerTest.testAddMember" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesSE2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung2" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung2.ContainerTest" />
-      <option name="METHOD_NAME" value="testAddMember" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerTest.testDump" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="codesSE2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung2" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung2.ContainerTest" />
-      <option name="METHOD_NAME" value="testDump" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,28 +153,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GermanTranslatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SpeicherTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codesSE2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung1.*" />
+          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung1" />
-      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung1.GermanTranslatorTest" />
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung3.SpeicherTests" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeicherTests.testKeineStrategie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codesSE2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung3.SpeicherTests" />
+      <option name="METHOD_NAME" value="testKeineStrategie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeicherTests.testOrdner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codesSE2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hbrs.se1.ws24.tests.uebung3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.hbrs.se1.ws24.tests.uebung3" />
+      <option name="MAIN_CLASS_NAME" value="org.hbrs.se1.ws24.tests.uebung3.SpeicherTests" />
+      <option name="METHOD_NAME" value="testOrdner" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SpeicherTests" />
+        <item itemvalue="JUnit.SpeicherTests.testOrdner" />
+        <item itemvalue="JUnit.SpeicherTests.testKeineStrategie" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ContainerTest.testSize" />
-        <item itemvalue="JUnit.ContainerTest.testDump" />
-        <item itemvalue="JUnit.ContainerTest" />
-        <item itemvalue="JUnit.ContainerTest.testAddMember" />
-        <item itemvalue="JUnit.GermanTranslatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +235,8 @@
       <workItem from="1728994119897" duration="835000" />
       <workItem from="1728996902305" duration="389000" />
       <workItem from="1729622094967" duration="442000" />
+      <workItem from="1729622577224" duration="1142000" />
+      <workItem from="1729623736125" duration="7077000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -421,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728997184829</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1729622610758</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729622610758</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,9 +477,9 @@
     <MESSAGE value="Container Objekt in dem Member gespeichert werden" />
     <MESSAGE value="Exception falls ein Member bereits in der Liste ist" />
     <MESSAGE value="Testklasse zum Testen des Containers" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Exceptions &gt; Rückgabewert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions &gt; Rückgabewert" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
