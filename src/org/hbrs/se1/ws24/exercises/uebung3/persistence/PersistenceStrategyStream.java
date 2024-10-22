@@ -1,4 +1,7 @@
 package org.hbrs.se1.ws24.exercises.uebung3.persistence;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.List;
@@ -6,7 +9,7 @@ import java.util.List;
 public class PersistenceStrategyStream<E> implements PersistenceStrategy<E> {
 
     // URL of file, in which the objects are stored
-    private String location = "objects.ser";
+    private String location = "src\\org\\hbrs\\se1\\ws24\\exercises\\uebung3\\Daten\\objects.ser";
 
     // Backdoor method used only for testing purposes, if the location should be changed in a Unit-Test
     // Example: Location is a directory (Streams do not like directories, so try this out ;-)!
@@ -22,7 +25,13 @@ public class PersistenceStrategyStream<E> implements PersistenceStrategy<E> {
      * (Last Access: Oct, 15th 2024)
      */
     public void save(List<E> member) throws PersistenceException  {
-
+        // Try-Catch with Resources: Schließt die Streams automatisch
+        try (FileOutputStream fos = new FileOutputStream(location); ObjectOutputStream oos = new ObjectOutputStream(fos)) {
+            oos.writeObject(member);
+            oos.flush();
+        } catch (Exception e) {
+            throw new PersistenceException(PersistenceException.ExceptionType.ConnectionNotAvailable, "Datei " + location + " konnte nicht beschrieben werden");
+        }
     }
 
     @Override
@@ -32,26 +41,11 @@ public class PersistenceStrategyStream<E> implements PersistenceStrategy<E> {
      * Take also a look at the import statements above ;-!
      */
     public List<E> load() throws PersistenceException  {
-        // Some Coding hints ;-)
-
-        // ObjectInputStream ois = null;
-        // FileInputStream fis = null;
-        // List<...> newListe =  null;
-        //
-        // Initiating the Stream (can also be moved to method openConnection()... ;-)
-        // fis = new FileInputStream( " a location to a file" );
-
-        // Tipp: Use a directory (ends with "/") to implement a negative test case ;-)
-        // ois = new ObjectInputStream(fis);
-
-        // Reading and extracting the list (try .. catch ommitted here)
-        // Object obj = ois.readObject();
-
-        // if (obj instanceof List<?>) {
-        //       newListe = (List) obj;
-        // return newListe
-
-        // and finally close the streams
-        return null;
+        // Try-Catch with Resources: Schließt die Streams automatisch
+        try (FileInputStream fis = new FileInputStream(location); ObjectInputStream ois = new ObjectInputStream(fis)) {
+            return (List<E>) ois.readObject();
+        } catch (Exception e) {
+            throw new PersistenceException(PersistenceException.ExceptionType.ConnectionNotAvailable, "Datei " + location + " konnte nicht gelesen werden");
+        }
     }
 }
