@@ -1,7 +1,5 @@
 package org.hbrs.se1.ws24.exercises.uebung3;
 
-import org.hbrs.se1.ws24.exercises.uebung3.persistence.PersistenceException;
-
 public class Client {
     public void test(Container container) {
         MemberView view = new MemberView();
@@ -13,8 +11,7 @@ public class Client {
             container.addMember(m2);
             container.addMember(m3);
             view.dump(container.getCurrentList());
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (Exception ignored) {
         }
     }
 }
