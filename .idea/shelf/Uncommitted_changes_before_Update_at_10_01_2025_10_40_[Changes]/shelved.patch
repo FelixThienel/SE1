@@ -1,0 +1,614 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42__Changes_.xml	(revision b79200fc108a3682e62137d52cc4025c46f25b30)
++++ /dev/null	(revision b79200fc108a3682e62137d52cc4025c46f25b30)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]" date="1731418923702" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 12.11.2024 14:42 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]/shelved.patch	(revision b79200fc108a3682e62137d52cc4025c46f25b30)
++++ /dev/null	(revision b79200fc108a3682e62137d52cc4025c46f25b30)
+@@ -1,345 +0,0 @@
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch	(revision a79df1a4ae27a0948d42b06a167c0b910d445e32)
+-+++ /dev/null	(revision a79df1a4ae27a0948d42b06a167c0b910d445e32)
+-@@ -1,69 +0,0 @@
+--Index: .idea/workspace.xml
+--IDEA additional info:
+--Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+--<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"11b931b2-f8a2-4546-af99-1df1f0f211cc\" name=\"Changes\" comment=\"Testklasse zum Testen des Containers\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung2/README.md\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Felix/main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;FelixThienel&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/aldaGit/codesSEws24.git&quot;,\r\n    &quot;accountId&quot;: &quot;eb617ea3-5497-4172-baeb-ed6e40dc0dc3&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mW0K1ridSNtBXJ1HQIirtbe7AX\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"JUnit.ContainerTest.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testAddMember.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testDump.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testSize.executor\": \"Run\",\r\n    \"JUnit.GermanTranslatorTest.executor\": \"Run\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"com.intellij.ide.FileNotInSourceRootChecker.no.check\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung2\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\rebaf\\IdeaProjects\\codesSEws24\\src\\org\\hbrs\\se1\\ws24\\exercises\\uebung2\" />\r\n      <recent name=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises\" />\r\n      <recent name=\"$PROJECT_DIR$/src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"JUnit.ContainerTest.testSize\">\r\n    <configuration name=\"ContainerTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2.ContainerTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ContainerTest.testAddMember\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2.ContainerTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"testAddMember\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ContainerTest.testDump\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2.ContainerTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"testDump\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ContainerTest.testSize\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2.ContainerTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"testSize\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"GermanTranslatorTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung1.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung1\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung1.GermanTranslatorTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.ContainerTest.testSize\" />\r\n        <item itemvalue=\"JUnit.ContainerTest.testDump\" />\r\n        <item itemvalue=\"JUnit.ContainerTest\" />\r\n        <item itemvalue=\"JUnit.ContainerTest.testAddMember\" />\r\n        <item itemvalue=\"JUnit.GermanTranslatorTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"11b931b2-f8a2-4546-af99-1df1f0f211cc\" name=\"Changes\" comment=\"\" />\r\n      <created>1727176957166</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727176957166</updated>\r\n      <workItem from=\"1727176958305\" duration=\"1892000\" />\r\n      <workItem from=\"1728385598782\" duration=\"4863000\" />\r\n      <workItem from=\"1728390545352\" duration=\"338000\" />\r\n      <workItem from=\"1728390944086\" duration=\"921000\" />\r\n      <workItem from=\"1728733734932\" duration=\"1414000\" />\r\n      <workItem from=\"1728735180266\" duration=\"2080000\" />\r\n      <workItem from=\"1728994119897\" duration=\"835000\" />\r\n      <workItem from=\"1728996902305\" duration=\"256000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388252348</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388252348</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Übersetzung der Zahlen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388270102</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388270102</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388280767</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388280767</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388292383</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388292383</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388297825</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388297825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Ausgabe der Ergebnisse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388321028</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388321028</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388931928</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388931928</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388963500</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388963500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Factory zur Erzeugung des GermanTranslators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388988175</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388988175</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390236690</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390236690</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Übersetzung der Zahlen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390262583</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390262583</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Factory zum Erzeugen des Translators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390281310</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390281310</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Testklasse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390297037</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390297037</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390309304</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390309304</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390709099</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390709099</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Erzeugungsdatum hinzufügen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390733939</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390733939</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728391812415</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728391812415</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Beantwortung der Fragen zur Übung 1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728391837603</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728391837603</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Klasse zum Erzeugen eines Members\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737048163</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737048163</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Container Objekt in dem Member gespeichert werden\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737064866</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737064866</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Exception falls ein Member bereits in der Liste ist\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737093824</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737093824</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737104797</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737104797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Testklasse zum Testen des Containers\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737123287</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737123287</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"24\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Interface\" />\r\n    <MESSAGE value=\"Ausgabe der Ergebnisse\" />\r\n    <MESSAGE value=\"Factory zur Erzeugung des GermanTranslators\" />\r\n    <MESSAGE value=\"Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode\" />\r\n    <MESSAGE value=\"Übersetzung der Zahlen\" />\r\n    <MESSAGE value=\"Factory zum Erzeugen des Translators\" />\r\n    <MESSAGE value=\"Testklasse\" />\r\n    <MESSAGE value=\"Erzeugungsdatum hinzufügen\" />\r\n    <MESSAGE value=\"Beantwortung der Fragen zur Übung 1\" />\r\n    <MESSAGE value=\"Klasse zum Erzeugen eines Members\" />\r\n    <MESSAGE value=\"Container Objekt in dem Member gespeichert werden\" />\r\n    <MESSAGE value=\"Exception falls ein Member bereits in der Liste ist\" />\r\n    <MESSAGE value=\"Commit\" />\r\n    <MESSAGE value=\"Testklasse zum Testen des Containers\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Testklasse zum Testen des Containers\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+--Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+--<+>UTF-8
+--===================================================================
+--diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+----- a/.idea/workspace.xml	(revision 4e9473389161b30b184a1185f58d78aff9d4ed5d)
+--+++ b/.idea/workspace.xml	(date 1728997295530)
+--@@ -4,10 +4,7 @@
+--     <option name="autoReloadType" value="SELECTIVE" />
+--   </component>
+--   <component name="ChangeListManager">
+---    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Testklasse zum Testen des Containers">
+---      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung2/README.md" afterDir="false" />
+---      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+---    </list>
+--+    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Exceptions &gt; Rückgabewert" />
+--     <option name="SHOW_DIALOG" value="false" />
+--     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+--     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+--@@ -219,7 +216,7 @@
+--       <workItem from="1728733734932" duration="1414000" />
+--       <workItem from="1728735180266" duration="2080000" />
+--       <workItem from="1728994119897" duration="835000" />
+---      <workItem from="1728996902305" duration="256000" />
+--+      <workItem from="1728996902305" duration="389000" />
+--     </task>
+--     <task id="LOCAL-00001" summary="Commit">
+--       <option name="closed" value="true" />
+--@@ -405,7 +402,23 @@
+--       <option name="project" value="LOCAL" />
+--       <updated>1728737123287</updated>
+--     </task>
+---    <option name="localTasksCounter" value="24" />
+--+    <task id="LOCAL-00024" summary="Commit">
+--+      <option name="closed" value="true" />
+--+      <created>1728997168581</created>
+--+      <option name="number" value="00024" />
+--+      <option name="presentableId" value="LOCAL-00024" />
+--+      <option name="project" value="LOCAL" />
+--+      <updated>1728997168581</updated>
+--+    </task>
+--+    <task id="LOCAL-00025" summary="Exceptions &gt; Rückgabewert">
+--+      <option name="closed" value="true" />
+--+      <created>1728997184829</created>
+--+      <option name="number" value="00025" />
+--+      <option name="presentableId" value="LOCAL-00025" />
+--+      <option name="project" value="LOCAL" />
+--+      <updated>1728997184829</updated>
+--+    </task>
+--+    <option name="localTasksCounter" value="26" />
+--     <servers />
+--   </component>
+--   <component name="TypeScriptGeneratedFilesManager">
+--@@ -435,9 +448,10 @@
+--     <MESSAGE value="Klasse zum Erzeugen eines Members" />
+--     <MESSAGE value="Container Objekt in dem Member gespeichert werden" />
+--     <MESSAGE value="Exception falls ein Member bereits in der Liste ist" />
+---    <MESSAGE value="Commit" />
+--     <MESSAGE value="Testklasse zum Testen des Containers" />
+---    <option name="LAST_COMMIT_MESSAGE" value="Testklasse zum Testen des Containers" />
+--+    <MESSAGE value="Commit" />
+--+    <MESSAGE value="Exceptions &gt; Rückgabewert" />
+--+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions &gt; Rückgabewert" />
+--   </component>
+--   <component name="XSLT-Support.FileAssociations.UIState">
+--     <expand />
+-Index: .idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml
+-===================================================================
+-diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml
+-deleted file mode 100644
+---- a/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml	(revision a79df1a4ae27a0948d42b06a167c0b910d445e32)
+-+++ /dev/null	(revision a79df1a4ae27a0948d42b06a167c0b910d445e32)
+-@@ -1,4 +0,0 @@
+--<changelist name="Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]" date="1729622487918" recycled="true" deleted="true">
+--  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch" />
+--  <option name="DESCRIPTION" value="Uncommitted changes before Update at 22.10.2024 20:41 [Changes]" />
+--</changelist>
+-\ No newline at end of file
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"11b931b2-f8a2-4546-af99-1df1f0f211cc\" name=\"Changes\" comment=\"Commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Client.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/ConcreteMember.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Container.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/ContainerException.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Member.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/MemberView.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/test/org/hbrs/se1/ws24/tests/uebung3/SpeicherTests.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/persistence/PersistenceStrategyStream.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/persistence/PersistenceStrategyStream.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"editable-svg\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Felix/main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;FelixThienel&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/aldaGit/codesSEws24.git&quot;,\r\n    &quot;accountId&quot;: &quot;eb617ea3-5497-4172-baeb-ed6e40dc0dc3&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mW0K1ridSNtBXJ1HQIirtbe7AX\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.Test.executor\": \"Run\",\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"JUnit.ContainerTest.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testAddMember.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testDump.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testSize.executor\": \"Run\",\r\n    \"JUnit.GermanTranslatorTest.executor\": \"Run\",\r\n    \"JUnit.SpeicherTests.executor\": \"Run\",\r\n    \"JUnit.SpeicherTests.testKeineStrategie.executor\": \"Run\",\r\n    \"JUnit.SpeicherTests.testOrdner.executor\": \"Run\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"com.intellij.ide.FileNotInSourceRootChecker.no.check\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung3\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.gutterIcons\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\rebaf\\IdeaProjects\\codesSEws24\\src\\org\\hbrs\\se1\\ws24\\exercises\\uebung3\" />\r\n      <recent name=\"C:\\Users\\rebaf\\IdeaProjects\\codesSEws24\\src\\org\\hbrs\\se1\\ws24\\exercises\\uebung2\" />\r\n      <recent name=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises\" />\r\n      <recent name=\"$PROJECT_DIR$/src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"JUnit.SpeicherTests\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.exercises.uebung3.Main\" />\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.exercises.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ContainerTest.testSize\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung2.ContainerTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"testSize\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpeicherTests\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3.SpeicherTests\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpeicherTests.testKeineStrategie\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3.SpeicherTests\" />\r\n      <option name=\"METHOD_NAME\" value=\"testKeineStrategie\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpeicherTests.testOrdner\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3.SpeicherTests\" />\r\n      <option name=\"METHOD_NAME\" value=\"testOrdner\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.SpeicherTests\" />\r\n        <item itemvalue=\"JUnit.SpeicherTests.testOrdner\" />\r\n        <item itemvalue=\"JUnit.SpeicherTests.testKeineStrategie\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n        <item itemvalue=\"JUnit.ContainerTest.testSize\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"11b931b2-f8a2-4546-af99-1df1f0f211cc\" name=\"Changes\" comment=\"\" />\r\n      <created>1727176957166</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727176957166</updated>\r\n      <workItem from=\"1727176958305\" duration=\"1892000\" />\r\n      <workItem from=\"1728385598782\" duration=\"4863000\" />\r\n      <workItem from=\"1728390545352\" duration=\"338000\" />\r\n      <workItem from=\"1728390944086\" duration=\"921000\" />\r\n      <workItem from=\"1728733734932\" duration=\"1414000\" />\r\n      <workItem from=\"1728735180266\" duration=\"2080000\" />\r\n      <workItem from=\"1728994119897\" duration=\"835000\" />\r\n      <workItem from=\"1728996902305\" duration=\"389000\" />\r\n      <workItem from=\"1729622094967\" duration=\"442000\" />\r\n      <workItem from=\"1729622577224\" duration=\"1142000\" />\r\n      <workItem from=\"1729623736125\" duration=\"7077000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388252348</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388252348</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Übersetzung der Zahlen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388270102</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388270102</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388280767</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388280767</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388292383</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388292383</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388297825</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388297825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Ausgabe der Ergebnisse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388321028</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388321028</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388931928</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388931928</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388963500</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388963500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Factory zur Erzeugung des GermanTranslators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388988175</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388988175</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390236690</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390236690</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Übersetzung der Zahlen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390262583</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390262583</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Factory zum Erzeugen des Translators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390281310</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390281310</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Testklasse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390297037</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390297037</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390309304</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390309304</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390709099</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390709099</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Erzeugungsdatum hinzufügen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390733939</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390733939</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728391812415</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728391812415</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Beantwortung der Fragen zur Übung 1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728391837603</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728391837603</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Klasse zum Erzeugen eines Members\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737048163</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737048163</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Container Objekt in dem Member gespeichert werden\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737064866</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737064866</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Exception falls ein Member bereits in der Liste ist\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737093824</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737093824</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737104797</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737104797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Testklasse zum Testen des Containers\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737123287</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737123287</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728997168581</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728997168581</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Exceptions &gt; Rückgabewert\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728997184829</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728997184829</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729622610758</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729622610758</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"27\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Interface\" />\r\n    <MESSAGE value=\"Ausgabe der Ergebnisse\" />\r\n    <MESSAGE value=\"Factory zur Erzeugung des GermanTranslators\" />\r\n    <MESSAGE value=\"Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode\" />\r\n    <MESSAGE value=\"Übersetzung der Zahlen\" />\r\n    <MESSAGE value=\"Factory zum Erzeugen des Translators\" />\r\n    <MESSAGE value=\"Testklasse\" />\r\n    <MESSAGE value=\"Erzeugungsdatum hinzufügen\" />\r\n    <MESSAGE value=\"Beantwortung der Fragen zur Übung 1\" />\r\n    <MESSAGE value=\"Klasse zum Erzeugen eines Members\" />\r\n    <MESSAGE value=\"Container Objekt in dem Member gespeichert werden\" />\r\n    <MESSAGE value=\"Exception falls ein Member bereits in der Liste ist\" />\r\n    <MESSAGE value=\"Testklasse zum Testen des Containers\" />\r\n    <MESSAGE value=\"Exceptions &gt; Rückgabewert\" />\r\n    <MESSAGE value=\"Commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Commit\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision a79df1a4ae27a0948d42b06a167c0b910d445e32)
+-+++ b/.idea/workspace.xml	(date 1730530610701)
+-@@ -4,17 +4,10 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Commit">
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Client.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/ConcreteMember.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Container.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/ContainerException.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Main.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/Member.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/MemberView.java" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/test/org/hbrs/se1/ws24/tests/uebung3/SpeicherTests.java" afterDir="false" />
+-+    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Container Klasse">
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch" beforeDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml" beforeDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/persistence/PersistenceStrategyStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung3/persistence/PersistenceStrategyStream.java" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -70,6 +63,9 @@
+-     &quot;accountId&quot;: &quot;eb617ea3-5497-4172-baeb-ed6e40dc0dc3&quot;
+-   }
+- }</component>
+-+  <component name="ProblemsViewState">
+-+    <option name="selectedTabId" value="CurrentFile" />
+-+  </component>
+-   <component name="ProjectColorInfo">{
+-   &quot;associatedIndex&quot;: 1
+- }</component>
+-@@ -82,39 +78,39 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent"><![CDATA[{
+--  "keyToString": {
+--    "Application.Main.executor": "Run",
+--    "Application.Test.executor": "Run",
+--    "Downloaded.Files.Path.Enabled": "false",
+--    "JUnit.ContainerTest.executor": "Run",
+--    "JUnit.ContainerTest.testAddMember.executor": "Run",
+--    "JUnit.ContainerTest.testDump.executor": "Run",
+--    "JUnit.ContainerTest.testSize.executor": "Run",
+--    "JUnit.GermanTranslatorTest.executor": "Run",
+--    "JUnit.SpeicherTests.executor": "Run",
+--    "JUnit.SpeicherTests.testKeineStrategie.executor": "Run",
+--    "JUnit.SpeicherTests.testOrdner.executor": "Run",
+--    "Repository.Attach.Annotations": "false",
+--    "Repository.Attach.JavaDocs": "false",
+--    "Repository.Attach.Sources": "false",
+--    "RunOnceActivity.OpenProjectViewOnStart": "true",
+--    "RunOnceActivity.ShowReadmeOnStart": "true",
+--    "WebServerToolWindowFactoryState": "false",
+--    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+--    "git-widget-placeholder": "main",
+--    "ignore.virus.scanning.warn.message": "true",
+--    "kotlin-language-version-configured": "true",
+--    "last_opened_file_path": "C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung3",
+--    "node.js.detected.package.eslint": "true",
+--    "node.js.detected.package.tslint": "true",
+--    "node.js.selected.package.eslint": "(autodetect)",
+--    "node.js.selected.package.tslint": "(autodetect)",
+--    "nodejs_package_manager_path": "npm",
+--    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+--    "vue.rearranger.settings.migration": "true"
+-+  <component name="PropertiesComponent">{
+-+  &quot;keyToString&quot;: {
+-+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+-+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+-+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+-+    &quot;JUnit.ContainerTest.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.ContainerTest.testAddMember.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.ContainerTest.testDump.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.ContainerTest.testSize.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.GermanTranslatorTest.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.SpeicherTests.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.SpeicherTests.testKeineStrategie.executor&quot;: &quot;Run&quot;,
+-+    &quot;JUnit.SpeicherTests.testOrdner.executor&quot;: &quot;Run&quot;,
+-+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+-+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+-+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+-+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-+    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+-+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung3&quot;,
+-+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
+-+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-   }
+--}]]></component>
+-+}</component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-       <recent name="C:\Users\rebaf\IdeaProjects\codesSEws24\src\org\hbrs\se1\ws24\exercises\uebung3" />
+-@@ -213,8 +209,8 @@
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+-       <set>
+--        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+--        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+-+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+-+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+-       </set>
+-     </attachedChunks>
+-   </component>
+-@@ -236,7 +232,8 @@
+-       <workItem from="1728996902305" duration="389000" />
+-       <workItem from="1729622094967" duration="442000" />
+-       <workItem from="1729622577224" duration="1142000" />
+--      <workItem from="1729623736125" duration="7077000" />
+-+      <workItem from="1729623736125" duration="7593000" />
+-+      <workItem from="1730530518671" duration="92000" />
+-     </task>
+-     <task id="LOCAL-00001" summary="Commit">
+-       <option name="closed" value="true" />
+-@@ -446,7 +443,103 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1729622610758</updated>
+-     </task>
+--    <option name="localTasksCounter" value="27" />
+-+    <task id="LOCAL-00027" summary="Commit">
+-+      <option name="closed" value="true" />
+-+      <created>1729630925472</created>
+-+      <option name="number" value="00027" />
+-+      <option name="presentableId" value="LOCAL-00027" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729630925472</updated>
+-+    </task>
+-+    <task id="LOCAL-00028" summary="Tests zum Speichern und Laden der Liste">
+-+      <option name="closed" value="true" />
+-+      <created>1729630954577</created>
+-+      <option name="number" value="00028" />
+-+      <option name="presentableId" value="LOCAL-00028" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729630954577</updated>
+-+    </task>
+-+    <task id="LOCAL-00029" summary="Speichern und Laden mittels Streams">
+-+      <option name="closed" value="true" />
+-+      <created>1729630984040</created>
+-+      <option name="number" value="00029" />
+-+      <option name="presentableId" value="LOCAL-00029" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729630984040</updated>
+-+    </task>
+-+    <task id="LOCAL-00030" summary="Klasse zur Ausgabe der Liste auf der Konsole">
+-+      <option name="closed" value="true" />
+-+      <created>1729630999492</created>
+-+      <option name="number" value="00030" />
+-+      <option name="presentableId" value="LOCAL-00030" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729630999492</updated>
+-+    </task>
+-+    <task id="LOCAL-00031" summary="Member Interface">
+-+      <option name="closed" value="true" />
+-+      <created>1729631024330</created>
+-+      <option name="number" value="00031" />
+-+      <option name="presentableId" value="LOCAL-00031" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631024330</updated>
+-+    </task>
+-+    <task id="LOCAL-00032" summary="Main Klasse zum Initialisieren">
+-+      <option name="closed" value="true" />
+-+      <created>1729631047880</created>
+-+      <option name="number" value="00032" />
+-+      <option name="presentableId" value="LOCAL-00032" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631047880</updated>
+-+    </task>
+-+    <task id="LOCAL-00033" summary="Container Exception">
+-+      <option name="closed" value="true" />
+-+      <created>1729631062147</created>
+-+      <option name="number" value="00033" />
+-+      <option name="presentableId" value="LOCAL-00033" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631062147</updated>
+-+    </task>
+-+    <task id="LOCAL-00034" summary="Container Klasse">
+-+      <option name="closed" value="true" />
+-+      <created>1729631078740</created>
+-+      <option name="number" value="00034" />
+-+      <option name="presentableId" value="LOCAL-00034" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631078740</updated>
+-+    </task>
+-+    <task id="LOCAL-00035" summary="ein spezifischer Member">
+-+      <option name="closed" value="true" />
+-+      <created>1729631087095</created>
+-+      <option name="number" value="00035" />
+-+      <option name="presentableId" value="LOCAL-00035" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631087095</updated>
+-+    </task>
+-+    <task id="LOCAL-00036" summary="Client Klasse zum Testen der Ausgabe auf der Konsole">
+-+      <option name="closed" value="true" />
+-+      <created>1729631108662</created>
+-+      <option name="number" value="00036" />
+-+      <option name="presentableId" value="LOCAL-00036" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631108662</updated>
+-+    </task>
+-+    <task id="LOCAL-00037" summary="Client Klasse zum Testen der Ausgabe auf der Konsole">
+-+      <option name="closed" value="true" />
+-+      <created>1729631162183</created>
+-+      <option name="number" value="00037" />
+-+      <option name="presentableId" value="LOCAL-00037" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631162183</updated>
+-+    </task>
+-+    <task id="LOCAL-00038" summary="Container Klasse">
+-+      <option name="closed" value="true" />
+-+      <created>1729631259568</created>
+-+      <option name="number" value="00038" />
+-+      <option name="presentableId" value="LOCAL-00038" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1729631259568</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="39" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -479,7 +572,16 @@
+-     <MESSAGE value="Testklasse zum Testen des Containers" />
+-     <MESSAGE value="Exceptions &gt; Rückgabewert" />
+-     <MESSAGE value="Commit" />
+--    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+-+    <MESSAGE value="Tests zum Speichern und Laden der Liste" />
+-+    <MESSAGE value="Speichern und Laden mittels Streams" />
+-+    <MESSAGE value="Klasse zur Ausgabe der Liste auf der Konsole" />
+-+    <MESSAGE value="Member Interface" />
+-+    <MESSAGE value="Main Klasse zum Initialisieren" />
+-+    <MESSAGE value="Container Exception" />
+-+    <MESSAGE value="ein spezifischer Member" />
+-+    <MESSAGE value="Client Klasse zum Testen der Ausgabe auf der Konsole" />
+-+    <MESSAGE value="Container Klasse" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Container Klasse" />
+-   </component>
+-   <component name="XSLT-Support.FileAssociations.UIState">
+-     <expand />
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"11b931b2-f8a2-4546-af99-1df1f0f211cc\" name=\"Changes\" comment=\"Container Klasse\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/Container.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/ContainerException.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/Terminal.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/UserStories.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceException.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceStrategy.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceStrategyMongoDB.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceStrategyStream.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"editable-svg\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Felix/main\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;FelixThienel&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/aldaGit/codesSEws24.git&quot;,\r\n    &quot;accountId&quot;: &quot;eb617ea3-5497-4172-baeb-ed6e40dc0dc3&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mW0K1ridSNtBXJ1HQIirtbe7AX\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.Terminal.executor\": \"Run\",\r\n    \"Application.Test.executor\": \"Run\",\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"JUnit.ContainerTest.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testAddMember.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testDump.executor\": \"Run\",\r\n    \"JUnit.ContainerTest.testSize.executor\": \"Run\",\r\n    \"JUnit.GermanTranslatorTest.executor\": \"Run\",\r\n    \"JUnit.SpeicherTests.executor\": \"Run\",\r\n    \"JUnit.SpeicherTests.testKeineStrategie.executor\": \"Run\",\r\n    \"JUnit.SpeicherTests.testOrdner.executor\": \"Run\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"com.intellij.ide.FileNotInSourceRootChecker.no.check\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung4\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"editor.preferences.gutterIcons\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\rebaf\\IdeaProjects\\codesSEws24\\src\\org\\hbrs\\se1\\ws24\\exercises\\uebung4\" />\r\n      <recent name=\"C:\\Users\\rebaf\\IdeaProjects\\codesSEws24\\src\\org\\hbrs\\se1\\ws24\\exercises\\uebung3\" />\r\n      <recent name=\"C:\\Users\\rebaf\\IdeaProjects\\codesSEws24\\src\\org\\hbrs\\se1\\ws24\\exercises\\uebung2\" />\r\n      <recent name=\"$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises\" />\r\n      <recent name=\"$PROJECT_DIR$/src\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"org.hbrs.se1.ws24.exercises.uebung4\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Terminal\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.exercises.uebung3.Main\" />\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.exercises.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Terminal\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.exercises.uebung4.Terminal\" />\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.exercises.uebung4.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpeicherTests\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3.SpeicherTests\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpeicherTests.testKeineStrategie\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3.SpeicherTests\" />\r\n      <option name=\"METHOD_NAME\" value=\"testKeineStrategie\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SpeicherTests.testOrdner\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"codesSE2024\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"org.hbrs.se1.ws24.tests.uebung3.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"org.hbrs.se1.ws24.tests.uebung3.SpeicherTests\" />\r\n      <option name=\"METHOD_NAME\" value=\"testOrdner\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Terminal\" />\r\n        <item itemvalue=\"JUnit.SpeicherTests\" />\r\n        <item itemvalue=\"JUnit.SpeicherTests.testOrdner\" />\r\n        <item itemvalue=\"JUnit.SpeicherTests.testKeineStrategie\" />\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"11b931b2-f8a2-4546-af99-1df1f0f211cc\" name=\"Changes\" comment=\"\" />\r\n      <created>1727176957166</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727176957166</updated>\r\n      <workItem from=\"1727176958305\" duration=\"1892000\" />\r\n      <workItem from=\"1728385598782\" duration=\"4863000\" />\r\n      <workItem from=\"1728390545352\" duration=\"338000\" />\r\n      <workItem from=\"1728390944086\" duration=\"921000\" />\r\n      <workItem from=\"1728733734932\" duration=\"1414000\" />\r\n      <workItem from=\"1728735180266\" duration=\"2080000\" />\r\n      <workItem from=\"1728994119897\" duration=\"835000\" />\r\n      <workItem from=\"1728996902305\" duration=\"389000\" />\r\n      <workItem from=\"1729622094967\" duration=\"442000\" />\r\n      <workItem from=\"1729622577224\" duration=\"1142000\" />\r\n      <workItem from=\"1729623736125\" duration=\"7593000\" />\r\n      <workItem from=\"1730530518671\" duration=\"92000\" />\r\n      <workItem from=\"1731418891630\" duration=\"4791000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388252348</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388252348</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Übersetzung der Zahlen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388270102</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388270102</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388280767</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388280767</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388292383</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388292383</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388297825</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388297825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Ausgabe der Ergebnisse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388321028</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388321028</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388931928</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388931928</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388963500</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388963500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Factory zur Erzeugung des GermanTranslators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728388988175</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728388988175</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390236690</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390236690</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Übersetzung der Zahlen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390262583</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390262583</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Factory zum Erzeugen des Translators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390281310</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390281310</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Testklasse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390297037</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390297037</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390309304</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390309304</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390709099</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390709099</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Erzeugungsdatum hinzufügen\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728390733939</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728390733939</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728391812415</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728391812415</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Beantwortung der Fragen zur Übung 1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728391837603</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728391837603</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Klasse zum Erzeugen eines Members\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737048163</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737048163</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Container Objekt in dem Member gespeichert werden\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737064866</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737064866</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Exception falls ein Member bereits in der Liste ist\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737093824</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737093824</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737104797</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737104797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Testklasse zum Testen des Containers\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728737123287</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728737123287</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728997168581</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728997168581</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Exceptions &gt; Rückgabewert\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1728997184829</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1728997184829</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729622610758</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729622610758</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729630925472</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729630925472</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"Tests zum Speichern und Laden der Liste\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729630954577</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729630954577</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"Speichern und Laden mittels Streams\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729630984040</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729630984040</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"Klasse zur Ausgabe der Liste auf der Konsole\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729630999492</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729630999492</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00031\" summary=\"Member Interface\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631024330</created>\r\n      <option name=\"number\" value=\"00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00031\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631024330</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00032\" summary=\"Main Klasse zum Initialisieren\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631047880</created>\r\n      <option name=\"number\" value=\"00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00032\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631047880</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00033\" summary=\"Container Exception\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631062147</created>\r\n      <option name=\"number\" value=\"00033\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00033\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631062147</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00034\" summary=\"Container Klasse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631078740</created>\r\n      <option name=\"number\" value=\"00034\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00034\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631078740</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"ein spezifischer Member\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631087095</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631087095</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"Client Klasse zum Testen der Ausgabe auf der Konsole\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631108662</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631108662</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00037\" summary=\"Client Klasse zum Testen der Ausgabe auf der Konsole\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631162183</created>\r\n      <option name=\"number\" value=\"00037\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00037\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631162183</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00038\" summary=\"Container Klasse\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729631259568</created>\r\n      <option name=\"number\" value=\"00038\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00038\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729631259568</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"39\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Interface\" />\r\n    <MESSAGE value=\"Ausgabe der Ergebnisse\" />\r\n    <MESSAGE value=\"Factory zur Erzeugung des GermanTranslators\" />\r\n    <MESSAGE value=\"Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode\" />\r\n    <MESSAGE value=\"Übersetzung der Zahlen\" />\r\n    <MESSAGE value=\"Factory zum Erzeugen des Translators\" />\r\n    <MESSAGE value=\"Testklasse\" />\r\n    <MESSAGE value=\"Erzeugungsdatum hinzufügen\" />\r\n    <MESSAGE value=\"Beantwortung der Fragen zur Übung 1\" />\r\n    <MESSAGE value=\"Klasse zum Erzeugen eines Members\" />\r\n    <MESSAGE value=\"Container Objekt in dem Member gespeichert werden\" />\r\n    <MESSAGE value=\"Exception falls ein Member bereits in der Liste ist\" />\r\n    <MESSAGE value=\"Testklasse zum Testen des Containers\" />\r\n    <MESSAGE value=\"Exceptions &gt; Rückgabewert\" />\r\n    <MESSAGE value=\"Commit\" />\r\n    <MESSAGE value=\"Tests zum Speichern und Laden der Liste\" />\r\n    <MESSAGE value=\"Speichern und Laden mittels Streams\" />\r\n    <MESSAGE value=\"Klasse zur Ausgabe der Liste auf der Konsole\" />\r\n    <MESSAGE value=\"Member Interface\" />\r\n    <MESSAGE value=\"Main Klasse zum Initialisieren\" />\r\n    <MESSAGE value=\"Container Exception\" />\r\n    <MESSAGE value=\"ein spezifischer Member\" />\r\n    <MESSAGE value=\"Client Klasse zum Testen der Ausgabe auf der Konsole\" />\r\n    <MESSAGE value=\"Container Klasse\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Container Klasse\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b79200fc108a3682e62137d52cc4025c46f25b30)
++++ b/.idea/workspace.xml	(date 1734709749180)
+@@ -4,18 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Container Klasse">
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/Container.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/ContainerException.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/Terminal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/UserStories.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceException.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceStrategy.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceStrategyMongoDB.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/org/hbrs/se1/ws24/exercises/uebung4/persistence/PersistenceStrategyStream.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41_[Changes]/shelved.patch" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_10_2024_20_41__Changes_.xml" beforeDir="false" />
++    <list default="true" id="11b931b2-f8a2-4546-af99-1df1f0f211cc" name="Changes" comment="Commit">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_2024_14_42__Changes_.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -87,41 +78,42 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.Main.executor": "Run",
+-    "Application.Terminal.executor": "Run",
+-    "Application.Test.executor": "Run",
+-    "Downloaded.Files.Path.Enabled": "false",
+-    "JUnit.ContainerTest.executor": "Run",
+-    "JUnit.ContainerTest.testAddMember.executor": "Run",
+-    "JUnit.ContainerTest.testDump.executor": "Run",
+-    "JUnit.ContainerTest.testSize.executor": "Run",
+-    "JUnit.GermanTranslatorTest.executor": "Run",
+-    "JUnit.SpeicherTests.executor": "Run",
+-    "JUnit.SpeicherTests.testKeineStrategie.executor": "Run",
+-    "JUnit.SpeicherTests.testOrdner.executor": "Run",
+-    "Repository.Attach.Annotations": "false",
+-    "Repository.Attach.JavaDocs": "false",
+-    "Repository.Attach.Sources": "false",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung4",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Terminal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
++    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
++    &quot;JUnit.ContainerTest.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.ContainerTest.testAddMember.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.ContainerTest.testDump.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.ContainerTest.testSize.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.GermanTranslatorTest.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.SpeicherTests.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.SpeicherTests.testKeineStrategie.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.SpeicherTests.testOrdner.executor&quot;: &quot;Run&quot;,
++    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/rebaf/IdeaProjects/codesSEws24/src/org/hbrs/se1/ws24/exercises/uebung4&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\rebaf\IdeaProjects\codesSEws24\src\org\hbrs\se1\ws24\exercises\uebung4" />
+@@ -221,8 +213,8 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
++        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
++        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -246,7 +238,10 @@
+       <workItem from="1729622577224" duration="1142000" />
+       <workItem from="1729623736125" duration="7593000" />
+       <workItem from="1730530518671" duration="92000" />
+-      <workItem from="1731418891630" duration="4791000" />
++      <workItem from="1731418891630" duration="5014000" />
++      <workItem from="1732038266373" duration="227000" />
++      <workItem from="1734709239315" duration="72000" />
++      <workItem from="1734709350575" duration="395000" />
+     </task>
+     <task id="LOCAL-00001" summary="Commit">
+       <option name="closed" value="true" />
+@@ -552,7 +547,79 @@
+       <option name="project" value="LOCAL" />
+       <updated>1729631259568</updated>
+     </task>
+-    <option name="localTasksCounter" value="39" />
++    <task id="LOCAL-00039" summary="Container Klasse">
++      <option name="closed" value="true" />
++      <created>1731423761743</created>
++      <option name="number" value="00039" />
++      <option name="presentableId" value="LOCAL-00039" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423761743</updated>
++    </task>
++    <task id="LOCAL-00040" summary="Container Exception">
++      <option name="closed" value="true" />
++      <created>1731423772546</created>
++      <option name="number" value="00040" />
++      <option name="presentableId" value="LOCAL-00040" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423772546</updated>
++    </task>
++    <task id="LOCAL-00041" summary="Persistence Exception">
++      <option name="closed" value="true" />
++      <created>1731423785812</created>
++      <option name="number" value="00041" />
++      <option name="presentableId" value="LOCAL-00041" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423785812</updated>
++    </task>
++    <task id="LOCAL-00042" summary="Persistence Strategy">
++      <option name="closed" value="true" />
++      <created>1731423801628</created>
++      <option name="number" value="00042" />
++      <option name="presentableId" value="LOCAL-00042" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423801628</updated>
++    </task>
++    <task id="LOCAL-00043" summary="Persistence Strategys">
++      <option name="closed" value="true" />
++      <created>1731423814782</created>
++      <option name="number" value="00043" />
++      <option name="presentableId" value="LOCAL-00043" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423814782</updated>
++    </task>
++    <task id="LOCAL-00044" summary="Termina und Main Methode">
++      <option name="closed" value="true" />
++      <created>1731423825808</created>
++      <option name="number" value="00044" />
++      <option name="presentableId" value="LOCAL-00044" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423825808</updated>
++    </task>
++    <task id="LOCAL-00045" summary="User Stories">
++      <option name="closed" value="true" />
++      <created>1731423835160</created>
++      <option name="number" value="00045" />
++      <option name="presentableId" value="LOCAL-00045" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423835160</updated>
++    </task>
++    <task id="LOCAL-00046" summary="Commit">
++      <option name="closed" value="true" />
++      <created>1731423845664</created>
++      <option name="number" value="00046" />
++      <option name="presentableId" value="LOCAL-00046" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423845664</updated>
++    </task>
++    <task id="LOCAL-00047" summary="Commit">
++      <option name="closed" value="true" />
++      <created>1731423929728</created>
++      <option name="number" value="00047" />
++      <option name="presentableId" value="LOCAL-00047" />
++      <option name="project" value="LOCAL" />
++      <updated>1731423929728</updated>
++    </task>
++    <option name="localTasksCounter" value="48" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -570,10 +637,6 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <MESSAGE value="Interface" />
+-    <MESSAGE value="Ausgabe der Ergebnisse" />
+-    <MESSAGE value="Factory zur Erzeugung des GermanTranslators" />
+-    <MESSAGE value="Erzeugung der Klasse mittels Factory + Aufruf und Ausgabe der Methode" />
+     <MESSAGE value="Übersetzung der Zahlen" />
+     <MESSAGE value="Factory zum Erzeugen des Translators" />
+     <MESSAGE value="Testklasse" />
+@@ -584,17 +647,22 @@
+     <MESSAGE value="Exception falls ein Member bereits in der Liste ist" />
+     <MESSAGE value="Testklasse zum Testen des Containers" />
+     <MESSAGE value="Exceptions &gt; Rückgabewert" />
+-    <MESSAGE value="Commit" />
+     <MESSAGE value="Tests zum Speichern und Laden der Liste" />
+     <MESSAGE value="Speichern und Laden mittels Streams" />
+     <MESSAGE value="Klasse zur Ausgabe der Liste auf der Konsole" />
+     <MESSAGE value="Member Interface" />
+     <MESSAGE value="Main Klasse zum Initialisieren" />
+-    <MESSAGE value="Container Exception" />
+     <MESSAGE value="ein spezifischer Member" />
+     <MESSAGE value="Client Klasse zum Testen der Ausgabe auf der Konsole" />
+     <MESSAGE value="Container Klasse" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Container Klasse" />
++    <MESSAGE value="Container Exception" />
++    <MESSAGE value="Persistence Exception" />
++    <MESSAGE value="Persistence Strategy" />
++    <MESSAGE value="Persistence Strategys" />
++    <MESSAGE value="Termina und Main Methode" />
++    <MESSAGE value="User Stories" />
++    <MESSAGE value="Commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
